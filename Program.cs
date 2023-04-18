@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GradePassingOrNot
 {
+    //Nombre del estudiante: Francisco Cortes
+    //Grupo: 268
+    //Número y Texto del programa
+    //Código Fuente: autoría propia
     class Program
     {
         static public int getNumberOfGrades()
