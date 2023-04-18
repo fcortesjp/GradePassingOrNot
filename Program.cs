@@ -133,6 +133,7 @@ namespace GradePassingOrNot
             double[] grades = getGrades(numberOfGrades);
             //muestre resultados
             getPassingAndAverage(grades);
+            //termine el programa
             Console.WriteLine("Presione enter para finalizar...");
             Console.ReadLine();
         }
