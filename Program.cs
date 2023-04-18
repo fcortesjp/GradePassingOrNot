@@ -125,7 +125,7 @@ namespace GradePassingOrNot
             Console.WriteLine("Promedio:  {0:N2}", gradeSum/gradesArray.Length);
         }
         
-            static void Main(string[] args)
+        static void Main(string[] args)
         {
             //obtenga el numero total de notas a procesar
             int numberOfGrades = getNumberOfGrades();
