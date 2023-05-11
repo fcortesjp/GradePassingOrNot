@@ -131,6 +131,7 @@ namespace GradePassingOrNot
         
         static void Main(string[] args)
         {
+            Console.WriteLine("El programa obtiene n notas, su promedio y cuantas pasan y pierden \n");
             //obtenga el numero total de notas a procesar
             int numberOfGrades = getNumberOfGrades();
             //obtenga y valide cada nota
